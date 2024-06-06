@@ -106,9 +106,9 @@ footer{
     }
     
     section{
-        margin: 10vh 0;
+        margin: 10vh 2.5vw;
         width: fit-content;
-        padding: 5vh;
+        padding: 5vh 4vh;
         border: 2px solid white;
         border-radius: 10vh;
     }
